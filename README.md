@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm ascrm</h1>
 
-<div><img style="height:200px" src="https://streak-stats.demolab.com?user=ascrm&theme=tokyonight-duo&short_numbers=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&layout=compact&theme=dracula" alt="Top Languages">
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img style="height: 200px; margin-right: 20px;" src="https://streak-stats.demolab.com?user=ascrm&theme=tokyonight-duo&short_numbers=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 <br/>
